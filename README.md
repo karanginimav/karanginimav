@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android - Karan
+- 🔭 I’m currently working on Android - Kotlin
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: karanginimav@gmail.com
 <!--
