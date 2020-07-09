@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Android - Karan
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: karanginimav@gmail.com
 <!--
 **karanginimav/karanginimav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
